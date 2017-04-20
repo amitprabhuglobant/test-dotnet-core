@@ -1,0 +1,14 @@
+E:\nunit-sample\nunitsample\nunitsample\bin\Debug\netcoreapp1.1\nunitsample.deps.json
+E:\nunit-sample\nunitsample\nunitsample\bin\Debug\netcoreapp1.1\nunitsample.dll
+E:\nunit-sample\nunitsample\nunitsample\bin\Debug\netcoreapp1.1\nunitsample.pdb
+E:\nunit-sample\nunitsample\nunitsample\obj\Debug\netcoreapp1.1\nunitsample.AssemblyInfo.cs
+E:\nunit-sample\nunitsample\nunitsample\obj\Debug\netcoreapp1.1\nunitsample.dll
+E:\nunit-sample\nunitsample\nunitsample\obj\Debug\netcoreapp1.1\nunitsample.pdb
+E:\nunit-sample\nunitsample\nunitsample\obj\Debug\netcoreapp1.1\nunitsample.csprojResolveAssemblyReference.cache
+E:\aspnet\dotnetcore\test-dotnet-core\bin\Debug\netcoreapp1.1\nunitsample.deps.json
+E:\aspnet\dotnetcore\test-dotnet-core\bin\Debug\netcoreapp1.1\nunitsample.dll
+E:\aspnet\dotnetcore\test-dotnet-core\bin\Debug\netcoreapp1.1\nunitsample.pdb
+E:\aspnet\dotnetcore\test-dotnet-core\obj\Debug\netcoreapp1.1\nunitsample.csprojResolveAssemblyReference.cache
+E:\aspnet\dotnetcore\test-dotnet-core\obj\Debug\netcoreapp1.1\nunitsample.AssemblyInfo.cs
+E:\aspnet\dotnetcore\test-dotnet-core\obj\Debug\netcoreapp1.1\nunitsample.dll
+E:\aspnet\dotnetcore\test-dotnet-core\obj\Debug\netcoreapp1.1\nunitsample.pdb

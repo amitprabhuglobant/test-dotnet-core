@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "393ee0eead680f769c61fd5c9646a16f5fb7af8e"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "nunitsample/1.0.0": {
+        "dependencies": {
+          "NUnit": "3.6.1",
+          "NUnit3TestAdapter": "3.7.0"
+        },
+        "runtime": {
+          "nunitsample.dll": {}
+        }
+      },
+      "nunit/3.6.1": {
+        "runtime": {
+          "lib/netstandard1.6/nunit.framework.dll": {}
+        }
+      },
+      "nunit3testadapter/3.7.0": {}
+    }
+  },
+  "libraries": {
+    "nunitsample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "nunit/3.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0FPgTzx3+8HQsQLv85IRXuQVlc53whh1gWQkYL2sqQu7sj9cCiNTgiv0SCTut7lvRX/fXyBIS954VJEjxtL5gw==",
+      "path": "nunit/3.6.1",
+      "hashPath": "nunit.3.6.1.nupkg.sha512"
+    },
+    "nunit3testadapter/3.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bne2ti74G2Tqbq8iolG0rgVCerItqnJX0bfArUrmkv2p2WYPYZ6ECUXmLkmIl8tXu0F23GywCLJLCa/e5pJTWw==",
+      "path": "nunit3testadapter/3.7.0",
+      "hashPath": "nunit3testadapter.3.7.0.nupkg.sha512"
+    }
+  }
+}
